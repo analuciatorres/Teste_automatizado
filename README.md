@@ -31,10 +31,10 @@ cd amazon
 gem install bundler
 
 # iniciar o bundler
-bundle --init
+bundle install
 
 # iniciar o cucumber
-cucumber --init
+cucumber
 
 # gere a documentação do teste
 cucumber --format html --out=log/features.html
