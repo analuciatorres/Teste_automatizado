@@ -6,7 +6,7 @@
 Validação de busca de produto e intenção de compra
 Ao entrar no site da Amazon, o usuário deve buscar um produto e o teste validar essa busca. O usuário escolhe um produto da lista apresentada pelo site e adiciona ao carrinho de compras, o teste deve validar que o produto está no carrinho de compras.
 Este é un teste de funcionalidade do tipo teste de caixa preta, que valida as pesquisas do usuário.
-Este teste encontra-se em anadamento assim, não é a versão final.
+
 
 ## Funcionalidade
 Esse teste pode ser usado para que a empresa verifique quais os produtos os usuários selecionam e tem intenção de compra ao colocar no carrinho de compras.
