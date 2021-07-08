@@ -1,5 +1,5 @@
 # Teste automatizado para validação busca de produto
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/analuciatorres/Teste_Automatizado_intencao_compra_/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/analuciatorres/Teste_automatizado/blob/main/LICENSE) 
 
 # Sobre o projeto
 
