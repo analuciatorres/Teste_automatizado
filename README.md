@@ -21,7 +21,7 @@ Este teste foi feito para rodar em uma máquina com Ruby com Devkit usando as se
 
 ```ruby
 # clonar repositório
-https://github.com/analuciatorres/Intenção_compra
+https://github.com/analuciatorres/Teste_automatizado
 
 # executar o projeto instalando o Bundler
 gem install bundler
